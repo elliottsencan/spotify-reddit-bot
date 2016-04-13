@@ -32,7 +32,7 @@ WAIT = 30
 gmail_user = os.environ['GMAIL_USER']
 gmail_pwd =  os.environ['GMAIL_PWD']
 
-DO_COMMENTS = True
+DO_COMMENTS = false
 DO_SUBMISSIONS = True
 # Should check submissions and / or comments?
 
